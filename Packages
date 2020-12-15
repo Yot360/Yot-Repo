@@ -1,12 +1,12 @@
 Package: com.yot.darker
-Version: 1.0
+Version: 1.1
 Section: Themes
 Maintainer: Yot
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/Darker.deb
 Size: 414
-Description: A clean dark theme.
+Description: A simple and clean dark theme.
 Name: Darker
 Author: Yot & NightSl4Sh
 Depiction: 
