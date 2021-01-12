@@ -2,7 +2,7 @@ Package: com.yot.darker
 Version: 1.1
 Section: Themes
 Maintainer: Yot
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (=>11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/Darker.deb
 Size: 414
