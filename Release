@@ -1,8 +1,37 @@
-Origin: Yot
-Label: Yot' Repo
+Architectures: iphoneos-arm
+Codename: yot
+Components: main
+Date: Sat, 01 May 2021 23:19:40 +0000
+Description: My cydia repo where I upload my tweaks and themes
+Label: Yot's Repo
+Origin: Yot's Repo
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: My cydia repo where I post my projects.
+MD5Sum:
+ 77d44d703f9a0ef771b18452bc7ebf71              574 Packages
+ d87bb527528e41661b6f330881abc56f              443 Packages.bz2
+ 5964bf5d3ac4e3886cbf880e249e3e39              429 Packages.gz
+ acaf084103f3b72e3b4bbccc30c09d05              500 Packages.xz
+ 2f49ece95fbe209850fdf74840486497              428 Packages.zst
+ f981c3c2d8d9350c7f41b14f4fa35042              224 Release
+SHA1:
+ 889e9d6fb98c9b64f8c0912d20145875e749392e              574 Packages
+ 6082a0f46d1caa2ad3f70fa621646865363a6fbe              443 Packages.bz2
+ d8ddcdc64478b52f121f4716f5c4bfdbe33732b9              429 Packages.gz
+ 0deb3439e294f367bf4700e49b34fa9ac7bc184a              500 Packages.xz
+ c7421f562a79af1099f20b6d26031b13c01b71fa              428 Packages.zst
+ f4f25e2bf93d2b42b3a819accb3e7e42ef571e34              224 Release
+SHA256:
+ ab838367897759713599a974163668f696c04f88be7446f1748b8836bc5defb2              574 Packages
+ ebf6c4483d35a6f5f4635969b975265ff742fe365050a6a9db0eb8f4b8fa758b              443 Packages.bz2
+ 54e19ef93af26e9f59f75cb7681725ac8e4995ea8ccc8444cb8f2d17755c6253              429 Packages.gz
+ dce5fbd21584adb594d15b6aa9bf8000230b0ab742878094d3bebc9e3024aa53              500 Packages.xz
+ bdb3394903bec43c40a563c348c9f7586961f5f9efd86cf7549b310762e089a5              428 Packages.zst
+ 52d83472a8da3814f39dac7b07616bc50952eacb14567f143655efdb50852247              224 Release
+SHA512:
+ b40e227b920c51bce43c67d19ad2d2cacb1d6e97d4569f5e04d32706abdcb90511cbd9eb98bdcce6545158604d3cf7a9f101446a8078e79738b464ece25311c5              574 Packages
+ cc06e96a7abb73cd77e483a980060e28bdf43a72f7702d67347b9c68447df25ab3babcc5b2e75e0e5c92a0e209a5df4aed5da304e5049f242e6c5625293fa0c0              443 Packages.bz2
+ 5c075a446345285c7def203d593cb0e3e0953d6fa4fed6bb1bda9206d5fa96e358018789648859c3c069e47eaddd0a77c73ede10d5fb1ded70330aac553ebe4c              429 Packages.gz
+ 350deb57af9cd0b819222eb26d1270f1f9136484bf49cfa345ada63d93e906c837222d3168790bfe3798f6df7ad5a8a7ba557581f8d1b4befc853e39ddc8cf28              500 Packages.xz
+ 6e883bedfd69562ab088f55915ffebc9133f83881332e48a72cb07b24de9f7f306dd5ad3a95df2d3bf9635dd36dfdedfefc048bf95bf7a72e94ecbe79d6f0d68              428 Packages.zst
+ 54e7dec7270360a3815098eedcd2f4c37313bf5577d5362599a4bf883b07d48fe68e14aa52747a7022116e9906609bdd47955cbe57e221a5d03bc60030a91b3c              224 Release

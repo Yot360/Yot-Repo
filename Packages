@@ -1,12 +1,16 @@
 Package: com.yot.darker
-Version: 1.1
+Architecture: iphoneos-arm
+Version: 1.3
 Section: Themes
 Maintainer: Yot
-Depends: firmware (=>11.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/Darker.deb
-Size: 414
-Description: A simple and clean dark theme.
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/Darker.deb
+Size: 1851632
+MD5sum: ae42153beb3f2040763a1c0b545f17ed
+SHA1: b57e9c77d3226a78fab64312cb0e57cf3a0e3e17
+SHA256: d5687e5c4c4ab960e763801d1138437f6ad91a436ac1dd4b76ba9e6c356822ae
+SHA512: 868ac971b780c4d6d09b30286eb77b1193cc6884e64221d835692e799142f7844131ae78e5677ba69deeefdaf2c6358db57ee6407bcc4d7b5cd1b268f3533bb8
+Description: A simple (not very clean) dark theme!
 Name: Darker
-Author: Yot & NightSl4Sh
-Depiction: 
+Author: Yot
+
